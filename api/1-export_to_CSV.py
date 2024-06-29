@@ -1,4 +1,7 @@
-s script retrieves an employee's todo list from the JSONPlaceholder
+#!/usr/bin/python3
+
+"""
+This script retrieves an employee's todo list from the JSONPlaceholder
  API,
  calculates the number of completed tasks,
 and prints the employee's name, the number of completed tasks,

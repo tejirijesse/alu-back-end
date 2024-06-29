@@ -1,4 +1,7 @@
-s script retrieves the todo lists for all employees from
+#!/usr/bin/python3
+
+"""
+This script retrieves the todo lists for all employees from
 the JSONPlaceholder API,
 and exports the data in a JSON file.
 
